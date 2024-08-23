@@ -9,7 +9,7 @@ class Pessoa:
 
     # Método Clone - Que criará uma cópia do objeto
     def clonarPessoa(self):
-        return copy.copy(self)
+        return copy(self)
     
 # Classe para gerenciar as instâncias da classe Pessoa
 class GerenciamentoPessoa:
