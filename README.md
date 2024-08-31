@@ -4,5 +4,6 @@ Códigos criados, durante o meu 3º semestre, em Desenvolvimento de Software Mul
 
 # Disciplinas
 - Técnicas de Programação II
-- Desenvolvimento Web III
 - Programação Para Dispositivos Móveis I
+- Banco de Dados Não Relacional 
+- Desenvolvimento Web III
